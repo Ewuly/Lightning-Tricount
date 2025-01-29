@@ -2,7 +2,7 @@
 
 A modern expense sharing app powered by Bitcoin Lightning Network payments. Split bills with friends and settle debts instantly using Lightning payments.
 
-![Lightning Tricount Banner](screenshots/banner.png)
+![alt text](image.png)
 
 ## 🌟 Features
 
@@ -27,15 +27,15 @@ A modern expense sharing app powered by Bitcoin Lightning Network payments. Spli
 ## 📱 Screenshots
 
 ### Dashboard & Groups
-![Dashboard](screenshots/dashboard.png)
+![alt text](image-1.png)
 *Main dashboard showing all your groups and total balances*
 
 ### Group Details
-![Group Details](screenshots/group-details.png)
+![alt text](image-2.png)
 *Detailed view of a group showing expenses and balances*
 
 ### Payment Flow
-![Payment Flow](screenshots/payment-flow.png)
+![alt text](image-3.png)
 *Lightning payment request and settlement process*
 
 ## 🛠 Technology Stack
